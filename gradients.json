@@ -1339,5 +1339,10 @@
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
+    },
+    {
+      "name": "HP BLUE",
+      "colors": ["#1B67E8", "#6209C3"]
     }
+  
 ]
